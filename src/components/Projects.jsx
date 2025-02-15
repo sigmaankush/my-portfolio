@@ -4,17 +4,17 @@ const projects = [
   {
     name: "On The Way",
     description: "A travel website that helps users find destinations, book hotels, and plan trips easily.",
-    image: "/on-the-way.jpg", // Replace with your actual image path
+    image: "/my-portfolio/public/on-the-way.jpg", // Replace with your actual image path
   },
   {
     name: "StudyBud",
     description: "An educational platform for students to collaborate, share notes, and access study materials.",
-    image: "/studybud.jpg", // Replace with your actual image path
+    image: "/my-portfolio/public/studybud.jpg", // Replace with your actual image path
   },
   {
     name: "Musicfy",
     description: "A music streaming website with curated playlists and recommendations.",
-    image: "/musicfy.jpg", // Replace with your actual image path
+    image: "/my-portfolio/public/musicfy.jpg", // Replace with your actual image path
   },
 ];
 
