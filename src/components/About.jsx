@@ -8,7 +8,7 @@ const About = () => {
       <div className="w-48 h-48 md:w-60 md:h-60 rounded-full overflow-hidden shadow-xl border-4 border-gray-500">
         <img 
           src="/my-portfolio/public/ANKUSH KUMAR .jpg" 
-          alt="Ankush Kumar" 
+          alt="Ankush kumar" 
           className="w-full h-full object-cover"
         />
       </div>

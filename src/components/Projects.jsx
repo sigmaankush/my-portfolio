@@ -14,7 +14,7 @@ const projects = [
   {
     name: "Musicfy",
     description: "A music streaming website with curated playlists and recommendations.",
-    image: "/my-portfolio/public/musicfy.jpg", // Replace with your actual image path
+    image: "/my-portfolio/public/musicfy.jpg", 
   },
 ];
 
